@@ -1,11 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "oders",
+  "collectionName": "orders",
   "info": {
-    "singularName": "oder",
-    "pluralName": "oders",
-    "displayName": "order",
-    "description": ""
+    "singularName": "order",
+    "pluralName": "orders",
+    "displayName": "order"
   },
   "options": {
     "draftAndPublish": true
